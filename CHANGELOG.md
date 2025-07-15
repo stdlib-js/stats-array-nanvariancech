@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5d6b241`](https://github.com/stdlib-js/stdlib/commit/5d6b24158bfaf492d511bb1fe3460e15c3634f5b) - **docs:** update notes and copy _(by Athan Reines)_
 -   [`148bde4`](https://github.com/stdlib-js/stdlib/commit/148bde49c5a7937d6815cbeae7359864c5e04723) - **feat:** add `stats/array/nanvariancech` [(#7668)](https://github.com/stdlib-js/stdlib/pull/7668) _(by Gururaj Gurram, Athan Reines)_
 
 </details>
