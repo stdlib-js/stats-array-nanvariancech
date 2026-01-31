@@ -112,7 +112,7 @@ The use of the term `n-1` is commonly referred to as Bessel's correction. Note, 
 To use in Observable,
 
 ```javascript
-nanvariancech = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanvariancech@umd/browser.js' )
+nanvariancech = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanvariancech@v0.1.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -124,7 +124,7 @@ var nanvariancech = require( 'path/to/vendor/umd/stats-array-nanvariancech/index
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanvariancech@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanvariancech@v0.1.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -192,7 +192,7 @@ var v = nanvariancech( x, 0.0 );
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-uniform@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanvariancech@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-nanvariancech@v0.1.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
